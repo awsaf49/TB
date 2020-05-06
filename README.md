@@ -1,4 +1,4 @@
-# A Composite Neural Network for Tuberculosis Diagnosis from Chest X-rays with Deep Feature Fusion Scheme using Multi-stage Transfer Learning with Layerwise Fine Tuning
+# [A Composite Neural Network for Tuberculosis Diagnosis from Chest X-rays with Deep Feature Fusion Scheme using Multi-stage Transfer Learning with Layerwise Fine Tuning](https://github.com/awsaf49/TB)
 
 Tuberculosis, a life-threatening disease, has become
 one of the major threats for public health mostly in developing
