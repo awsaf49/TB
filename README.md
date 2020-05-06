@@ -24,4 +24,10 @@ relevant applications to explore the available training data for
 precise diagnosis of tuberculosis. Extensive experimentations on
 three publicly available databases containing chest X-rays of
 tuberculosis patients provide significant performance in all traditional evaluation metrics outperforming other state-of-the-art
-approaches
+approaches.
+
+<img align="center" src="https://github.com/awsaf49/TB/blob/master/Figures/grad-cam.png" width="900">
+<img align="center" src="https://github.com/awsaf49/TB/blob/master/Figures/multitf.PNG" width="900">
+<img align="center" src="https://github.com/awsaf49/TB/blob/master/Figures/network.png" width="900">
+<img align="center" src="https://github.com/awsaf49/TB/blob/master/Figures/layerwise.PNG" width="900">
+<img align="center" src="https://github.com/awsaf49/TB/blob/master/Figures/ensemble.PNG" width="900">
